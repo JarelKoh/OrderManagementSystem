@@ -1,0 +1,14 @@
+Jarel,Password,Pasir Ris,Staff,M,22,Jarel
+User1,Password,Pasir Ris,Staff,F,25,User1
+User2,Password,Pasir Ris,Staff,F,30,User2
+User3,Password,Pasir Ris,Staff,M,40,User3
+User4,Password,Pasir Ris,Staff,M,19,User4
+User8,Password,Pasir Ris,Staff,M,31,User8
+Justin,Password,Pasir Ris,Manager,M,35,Justin
+User5,Password,Tampines,Staff,M,22,User5
+User6,Password,Tampines,Staff,F,28,User6
+User7,Password,Tampines,Staff,M,22,User7
+User9,Password,Tampines,Staff,M,32,User9
+User10,Password,Tampines,Staff,M,42,User10
+User11,Password,Tampines,Staff,M,39,User11
+Davin,Password,Tampines,Manager,M,30,Davin

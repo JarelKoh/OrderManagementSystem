@@ -1,0 +1,4 @@
+1,Burger,4.99,A delicious beef burger,SET,Yes
+2,Fries,2.00,Crispy golden fries,SNACKS,Yes
+3,Sundae,2.50,Hot fudge,DESSERT,Yes
+4,Coke,2.7,Ice,DRINKS,Yes

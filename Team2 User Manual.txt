@@ -1,0 +1,18 @@
+Welcome to Team 2's FOMS! Below is a short user manual for your perusal.
+
+
+Please ensure that User.txt, MenuItems.txt and PaymentList.txt are in the same folder as the source code. This is to ensure proper intialisation of the system.
+
+
+Attached are the initial staff members of one branch, Pasir Ris. Please refer to this when logging into the Staff/ Manager Views.
+Jarel,Password,Pasir Ris,Staff,M,22,Jarel
+User1,Password,Pasir Ris,Staff,F,25,User1
+User2,Password,Pasir Ris,Staff,F,30,User2
+User3,Password,Pasir Ris,Staff,M,40,User3
+User4,Password,Pasir Ris,Staff,M,19,User4
+User8,Password,Pasir Ris,Staff,M,31,User8
+Justin,Password,Pasir Ris,Manager,M,35,Justin
+
+Please note that Admin is not initialised in the text file. Admin's userID is boss, default password is Password. Please use this when logging into the Admin View.
+
+Note that if it is the first time a User is logging in, he will be immediately prompted to change the password. It is advised to change it to an easily remembered password for simplicity's sake.
